@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106754335525",
+    "project_id": "bnccmobilepraetorian",
+    "storage_bucket": "bnccmobilepraetorian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106754335525:android:fc5b9cd4997ce7319370cc",
+        "android_client_info": {
+          "package_name": "com.kevinnt.bnccmobilepraetorian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106754335525-q8cm2v61decm79prp6jv8gntsbljofc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoicOUReLun38HXcARqpZJmtokFWX3bVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106754335525-q8cm2v61decm79prp6jv8gntsbljofc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
